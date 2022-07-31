@@ -1,0 +1,449 @@
+[
+    {
+        "uuid": "1c5bb9fd-d330-4eda-9572-e38d3254c1dd",
+        "state": "ACTIVE",
+        "category": "ASSIGNABLE",
+        "stage": "PILOT",
+        "name": "Duraga_Plastic",
+        "displayName": "Durga Plastic",
+        "slug": "durga-plastic",
+        "type": "Recycling Company",
+        "location": "Vijayawada, India",
+        "externalId": "009feaa6-4141-464e-a4cd-61ea3c6d7bd3",
+        "recoveredQuantity": null,
+        "recoveredQuantityUnit": null,
+        "totalRecoveredQuantity": 0.0,
+        "collectionAndSortingParagraph": "The family business sources the scrap plastic from small collection points across Vijayawada. In fact roughly 20% of material purchased turns out to be non-recyclable or too low quality plastic to be used in the agricultural hoses they produce. This material is sorted out or where possible turned into waste bags that will be later used as transport units for the multi-layer material.",
+        "pageMode": "RELEASED",
+        "hubUnassignedRecoveryList": [],
+        "referenceQuantityUnit": "KG",
+        "parentHubName": null,
+        "logo": {
+            "uuid": "aede8a6d-a8d1-4fa6-afde-a0ef4654ea99",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/36bb0f369136aa91ec9ecbca6a3ece7a81e299fed510b22200dac232b67e58d3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3599&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=ca51fa8bd2b39a37a278ace8c73aae93cff4bea8c9fd7c28ba1c3ee6849e3493",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/35bbac99215c3767fc91dbe27aff570443feeeaa9dd170dbabb29baac4a71146?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=28ddca378ce4108a787f00d0b8125029e6b9827fed6d2bbc7a071d0c88491f15",
+            "fileName": "logo-placeholder.jpeg",
+            "size": 6743
+        },
+        "cardDescription": "Durga Plastic recycles old milk pouches into hoses for agriculture. Together with CleanHub they venture into non-recyclable plastic.",
+        "cardImage": {
+            "uuid": "e33e7973-51fe-4164-b28b-8d307e407cc8",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/90be39965e7c161b9e90c1c35ab92e893c8578be24b8e9e4554fa503dfd4334a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=a4494f91ab33ca1d60e82cafa362838af66b40ce8255b80dde327aef9e3f5e6c",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/9a02e326d2d43c4098914662e492221f8b668ddd9b00f632e88480655d46d5a1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=6426299ae6d8b378819931d106d7c19f8d583f2db2af3a9a18d9d9a1557bb1d7",
+            "fileName": "90be39965e7c161b9e90c1c35ab92e893c8578be24b8e9e4554fa503dfd4334a (1).png",
+            "size": 572115
+        },
+        "thankYouNote": "Thanks to your partnership we can recover non-valuable plastic in Andhra Pradesh region and prevent it from entering the oceans.\nWe started our collaboration with CleanHub as a pilot project, that is currently growing into a proper door-to-door collection system for plastic waste.\n\nWe were CleanHub's first-ever collection partner and are very proud to have helped with the development of their trace and track platform by offering our factory as a sandbox for the progress.",
+        "assignable": true,
+        "unassignedQuantityTotal": 0.0,
+        "formattedRecoveredQuantity": null,
+        "formattedTotalRecoveredQuantity": "0"
+    },
+    {
+        "uuid": "0a60664f-cfd2-478a-8c1b-0b78f90c81eb",
+        "state": "DEMO",
+        "category": "ASSIGNABLE",
+        "stage": "PILOT",
+        "name": "Green Worm Sorting",
+        "displayName": "Green Worms",
+        "slug": "green-worms",
+        "type": "Collection Company",
+        "location": "Kerala, India",
+        "externalId": "9b0b3a2a-44c2-4abf-9323-98a52d1de94c",
+        "recoveredQuantity": 65409.21,
+        "recoveredQuantityUnit": "KG",
+        "totalRecoveredQuantity": 136738.54,
+        "collectionAndSortingParagraph": "Green Worms Waste Management runs door-to-door collection services to intercept plastic waste before it can enter the environment. The collection efforts are performed by women self-help groups across various municipalities in Kerala, India and create critical employment opportunities in the community.",
+        "pageMode": "RELEASED",
+        "hubUnassignedRecoveryList": [
+            {
+                "uuid": "46243f58-2485-43d0-a042-2cbf792cf272",
+                "createdAt": "2022-05-17T10:35:35.860127Z",
+                "state": "PARTIALLY_ASSIGNED",
+                "unassignedQuantity": 105.6,
+                "assignedQuantity": 72.389246,
+                "quantityUnit": "KG"
+            },
+            {
+                "uuid": "01e32768-080d-4a29-92d3-8651d82b9178",
+                "createdAt": "2022-05-17T11:12:47.314290Z",
+                "state": "UNASSIGNED",
+                "unassignedQuantity": 106.8,
+                "assignedQuantity": 0.0,
+                "quantityUnit": "KG"
+            },
+            {
+                "uuid": "84b56998-097a-4f69-a8ba-e3fc23e41c66",
+                "createdAt": "2022-06-23T08:55:31.695595Z",
+                "state": "UNASSIGNED",
+                "unassignedQuantity": 73.512,
+                "assignedQuantity": 0.0,
+                "quantityUnit": "KG"
+            }
+        ],
+        "referenceQuantityUnit": "KG",
+        "parentHubName": "Portfolio",
+        "logo": {
+            "uuid": "8408f0bd-607f-4627-bd96-61e44a422045",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/159f2c0844106245575ae2a7af8f449ecf01205100b472786693f6e435d0d7af?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=3c6c84d910796158bf48949489da1c3004861cec1be43fbc355f726af69a6efa",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/768b22883c35bb3e56a6126070c518792eb06d22f675e643f93551b80b3e3a35?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=7c8888a4e1dfb25625a93ac8c676c2fa79bb05361c83e64c8b38e40f1693e5fd",
+            "fileName": "Size=XL, Which=Green Worms.png",
+            "size": 21797
+        },
+        "cardDescription": "Green Worms Waste Management runs door-to-door collection services to intercept plastic waste before it can enter the environment. The collection efforts are performed by women self-help groups across various municipalities in Kerala, India and create critical employment opportunities in the community.",
+        "cardImage": {
+            "uuid": "441acbe5-db9f-4546-9cc9-9b2dbbafc417",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/01bc73853ad8b23a53071700a2239d5dc3360875fed87abe3ad4a1b42ef4984e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=274385287b1af0c2d04152655c08e916ddb8bc34ab03ec950ac843f449e779f0",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/110780c47a9af93c919962aa26387403b7bb218c0e8fb813baedf7b932746909?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=97aa232bb2024eaea58597a98cbc452928ce556471bbf9c571c09085582a3c0d",
+            "fileName": "green_worms_card.jpeg",
+            "size": 509039
+        },
+        "thankYouNote": "Greenworms recovers zero or negative value plastic waste from waste streams. One of the great challenges to scale up our plastics waste recovery initiatives has been non recyclable Multi Layered Plastics which has no financial value. With CleanHub’s support we are able to manage MLP waste better and this has helped us to work with more villages, increase our environmental impact and create dignified opportunities for waste workers on the ground.",
+        "assignable": true,
+        "unassignedQuantityTotal": 213.522754,
+        "formattedRecoveredQuantity": "65,409",
+        "formattedTotalRecoveredQuantity": "136,739"
+    },
+    {
+        "uuid": "b54a5a61-d55a-4ff2-bd58-60b689a395ed",
+        "state": "ACTIVE",
+        "category": "ASSIGNABLE",
+        "stage": "FULLY_ONBOARDED",
+        "name": "vrecycle-collection-sorting",
+        "displayName": "vRecycle",
+        "slug": "vrecycle",
+        "type": "Waste Collection",
+        "location": "Goa, India",
+        "externalId": "e537fe4f-3da5-4801-b72b-2d663318d598",
+        "recoveredQuantity": 9300.0,
+        "recoveredQuantityUnit": "KG",
+        "totalRecoveredQuantity": 9300.0,
+        "collectionAndSortingParagraph": "When the recycling bins of the households are full, our vans pick up the sorted recyclables and deliver them to one of our sorting warehouses. (We have one in Corlim, north Goa, and one in Nessai, South Goa). Here our staff further sorts the recyclables into 40 separate categories before it is sent to recyclers. About 18% of the total received waste is non-recyclable.",
+        "pageMode": "RELEASED",
+        "hubUnassignedRecoveryList": [],
+        "referenceQuantityUnit": "KG",
+        "parentHubName": "Portfolio",
+        "logo": {
+            "uuid": "f161eb9e-7235-4486-8b5e-509601578ab4",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/9ae1a4209019da9a50c01f4b12d80c712bc073853833c2ec92fff3d15a85aa54?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3599&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=06d7cd2a83879ed3f2cf16a66ead417abab7605a3bd6836119cdf3282d3bad8d",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/70c6c362587c8f362f75c9aa5d8ebc2bda5f4e2e4438e141dc29ea8ae3cfbeb6?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=579b73805a0a83aca8c5ac860e75c3202db500cdc9f9a0e85bebdd74fef9e109",
+            "fileName": "9ae1a4209019da9a50c01f4b12d80c712bc073853833c2ec92fff3d15a85aa54.png",
+            "size": 94830
+        },
+        "cardDescription": "vRecycle helps over 25,000 homes manage their waste self-sufficient. The team has built more than 2000 composters and about 200 community recycling points.",
+        "cardImage": {
+            "uuid": "155b8c7c-27e7-4e59-a001-d246910cbf3c",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/5d8ea52080299f7bbd18ac235e7552ee33fa40ec0420eb4fc4602780a916219a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=f44232c5dd7d28736e896d87a3ca3d54c65d37fe5d5175eb377eae856c0d25d2",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/561be9b8b833715f6079923b48fbced6ad8d14df8995328270f8ef8ea5cdf41b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=1e60ef0582ab349fc740d369122ca09e77540fac8b0e07ccbb54ccdb4e63f5c0",
+            "fileName": "5d8ea52080299f7bbd18ac235e7552ee33fa40ec0420eb4fc4602780a916219a.jpeg",
+            "size": 835776
+        },
+        "thankYouNote": "vRecycle collects all plastics from households in Southern Goa. One of the great challenges to scale up our plastics waste recovery initiatives has been non-recyclable and multi-layered material which had no financial value before we started to work with CleanHub. With CleanHub’s support we are able to manage this waste better and it has helped us to increase our environmental impact and create dignified opportunities for waste workers on the ground.",
+        "assignable": true,
+        "unassignedQuantityTotal": 0.0,
+        "formattedRecoveredQuantity": "9,300",
+        "formattedTotalRecoveredQuantity": "9,300"
+    },
+    {
+        "uuid": "cf541bfd-5021-41f3-b1eb-96c982a7bf61",
+        "state": "ACTIVE",
+        "category": "ASSIGNABLE",
+        "stage": "PILOT",
+        "name": "Tridi Oasis Live",
+        "displayName": "Tridi Oasis",
+        "slug": "tridi-oasis",
+        "type": "Recycling Company",
+        "location": "Tangerang, Indonesia",
+        "externalId": "72a44103-3e82-447d-8770-159b8786a3a6",
+        "recoveredQuantity": 4970.2,
+        "recoveredQuantityUnit": "KG",
+        "totalRecoveredQuantity": 4970.2,
+        "collectionAndSortingParagraph": "We work with several suppliers across Jakarta and Tangerang. Our suppliers range from small shop owners, to waste banks and door-to-door collection partners. All volumes are aggregated and pre-sorted by our suppliers before we do a final sorting at our plant.",
+        "pageMode": "RELEASED",
+        "hubUnassignedRecoveryList": [
+            {
+                "uuid": "a0938be8-5b0e-45db-9ee9-cfb846038d04",
+                "createdAt": "2022-01-21T06:11:40.209318Z",
+                "state": "PARTIALLY_ASSIGNED",
+                "unassignedQuantity": 909.37,
+                "assignedQuantity": 871.86,
+                "quantityUnit": "KG"
+            },
+            {
+                "uuid": "b5e838cf-2310-4fdd-9709-c9afe1b80818",
+                "createdAt": "2022-06-23T08:53:07.277886Z",
+                "state": "UNASSIGNED",
+                "unassignedQuantity": 91.88,
+                "assignedQuantity": 0.0,
+                "quantityUnit": "KG"
+            },
+            {
+                "uuid": "02de691b-bd83-49d1-b05e-8a8baffb2667",
+                "createdAt": "2022-07-15T09:52:21.757841Z",
+                "state": "UNASSIGNED",
+                "unassignedQuantity": 95.0,
+                "assignedQuantity": 0.0,
+                "quantityUnit": "KG"
+            }
+        ],
+        "referenceQuantityUnit": "KG",
+        "parentHubName": "Portfolio",
+        "logo": {
+            "uuid": "e55fb3e5-9ecc-409b-9036-64569b855c19",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/bce29c43eb02c477c4849c1baee98f132980f679fc76b2624e93105267e95553?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=f7f4094469acdab20bc5b935a13a692ef56cc507eb949e4974421a6c48f1bc1f",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/df2291796af6e6017c945fd181df7ef3fc92469831cdfeb24fdcee36b38d7456?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=8756feb6f5a241b2daac6adc59b0a3b6201e2641c91590e3326730534f1769ea",
+            "fileName": "Size=XL, Which=Tridi Oasis.png",
+            "size": 20355
+        },
+        "cardDescription": "Tridi Oasis is an all female led recycling company from Tangerang, Indonesia. Dian and Dinda, the two founders were fed up with plastic pollution in their home country and decided to act instead of complaining. Read more about their story.",
+        "cardImage": {
+            "uuid": "e79ddc99-06c0-4f06-89ba-feb4eeaab757",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/21d8aa7ed68a057412af54fa07ebaa56f46a8dacf149553f986e034eb94d2409?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3599&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=5bff5ed82999d06ddfaed083646c1cd32da26acc8c7e68b7ac85f5167a22caa9",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/c0a0682503c29a5a11a4f946bc83b25b129ed3a542f0358fd65c59e370888d63?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=8614248a9a31d8142db819d291eb7a703262518e1b0702aac3fecd166a84121f",
+            "fileName": "tridi_card.jpeg",
+            "size": 237301
+        },
+        "thankYouNote": null,
+        "assignable": true,
+        "unassignedQuantityTotal": 224.39,
+        "formattedRecoveredQuantity": "4,970",
+        "formattedTotalRecoveredQuantity": "4,970"
+    },
+    {
+        "uuid": "13b8b427-cc5a-46f8-a722-1eada458b076",
+        "state": "ACTIVE",
+        "category": "ASSIGNABLE",
+        "stage": "PILOT",
+        "name": "Got Bag Warehouse",
+        "displayName": "GOT BAG",
+        "slug": "got-bag",
+        "type": "Collection Company",
+        "location": "Demak, Indonesia",
+        "externalId": "e02465ae-2ada-424a-a695-dbbe373e4b6e",
+        "recoveredQuantity": 890.0,
+        "recoveredQuantityUnit": "KG",
+        "totalRecoveredQuantity": 3770.0,
+        "collectionAndSortingParagraph": "As part of our clean-up program in the north of Java, our network of more than 2000 fishermen collects plastic as bycatch from the sea. The collected material then gets sorted into different plastic types. All PET is recycled and processed into yarn for our backpack production. The remaining plastic is divided according to suitable recycling solutions.",
+        "pageMode": "RELEASED",
+        "hubUnassignedRecoveryList": [
+            {
+                "uuid": "f6c0d042-88a3-49fa-b425-80e432c2a7e1",
+                "createdAt": "2022-01-27T09:51:10.707445Z",
+                "state": "PARTIALLY_ASSIGNED",
+                "unassignedQuantity": 88.0,
+                "assignedQuantity": 81.0,
+                "quantityUnit": "KG"
+            }
+        ],
+        "referenceQuantityUnit": "KG",
+        "parentHubName": "Portfolio",
+        "logo": {
+            "uuid": "eca00905-234f-4e67-998d-ce119d1e6dd1",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/4d424a2ec8f4b07e5ad4a2709f760fbeb4d32282e47855b521c603ef2a4ff123?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=971d1abc1fc123353264e0c2c00220d7d356d5247ab9aa4800262ab564712651",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/593054ae4b5d65bc66acc74959050bb78cab64ea7a41224a0a0bc328f413b93e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=0419f78cba458690baaf2fb332ba834a2ce57b12286a6f19b9ad62f036c1c91a",
+            "fileName": "4d424a2ec8f4b07e5ad4a2709f760fbeb4d32282e47855b521c603ef2a4ff123.png",
+            "size": 8313
+        },
+        "cardDescription": "GOT BAG developed the world’s first backpack made of marine plastic. They collect plastic as bycatch with a network of around 2,000 fisherman.",
+        "cardImage": {
+            "uuid": "6dad8c39-d460-4e83-af78-75ca3a9634cd",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/598494355d6dc2ebbe4e0e96350fd8679655f7af8087488030d6312349c92c5a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=4029edbffbec439c55b33ae567fbcdb275add3bac9eb088bb514490a13a9914f",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/18cf52f2edaca3575675705b68b44ef42f33c07888e819f8d41736d136453df8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=2994ba670cf56df993e25f3668ff579bab5c98849c516220a5caa40cd5427d64",
+            "fileName": "598494355d6dc2ebbe4e0e96350fd8679655f7af8087488030d6312349c92c5a.jpeg",
+            "size": 438752
+        },
+        "thankYouNote": "We don't just collect and recycle the PET for our textile production - we also feed the plastic we can't use for this into suitable recycling solutions. In this way, GOT BAG ensures that all material enters the circular economy.\nWith CleanHub's software, we can now track exactly what amount of plastic was collected where, when and by which fisherman.",
+        "assignable": true,
+        "unassignedQuantityTotal": 7.0,
+        "formattedRecoveredQuantity": "890",
+        "formattedTotalRecoveredQuantity": "3,770"
+    },
+    {
+        "uuid": "b8e750f4-9da7-4ecf-b875-e98b87cf4c36",
+        "state": "ACTIVE",
+        "category": "ASSIGNABLE",
+        "stage": "PILOT",
+        "name": "Plastic Fischer Varanasi",
+        "displayName": "Plastic Fischer",
+        "slug": "plastic-fischer",
+        "type": "River Cleanup",
+        "location": "Varanasi, India",
+        "externalId": "d6e27048-99c1-42d6-83ad-b6b8e0d02fa0",
+        "recoveredQuantity": 880.0,
+        "recoveredQuantityUnit": "KG",
+        "totalRecoveredQuantity": 880.0,
+        "collectionAndSortingParagraph": "After stopping the plastic in rivers, it is collected and brought to sorting facilities. The few recyclables are handed over to off-takers for further processing. Unfortunately, the vast majority of the collected plastic is not recyclable and is either sent to managed landfills or to incineration with energy recovery.",
+        "pageMode": "RELEASED",
+        "hubUnassignedRecoveryList": [
+            {
+                "uuid": "779ee24c-fd66-4436-9650-6735c94c3619",
+                "createdAt": "2021-12-06T14:53:09.060754Z",
+                "state": "UNASSIGNED",
+                "unassignedQuantity": 88.0,
+                "assignedQuantity": 0.0,
+                "quantityUnit": "KG"
+            }
+        ],
+        "referenceQuantityUnit": "KG",
+        "parentHubName": "Portfolio",
+        "logo": {
+            "uuid": "2cac0c2a-8d70-4ca6-9587-18cf82f4e5d3",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/dd19014605b154b802e74e9495f209ba51af79a6f9acb8715be543ceb30724ad?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=8e15f534ab7dd55ffc215f7ca36062c78bff4ca690be2d5f885a912f39048b4e",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/537bf43d76bc336314de88c533f2df4230873bddb649363c7578dd158877226a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=350ca9b9a78c0d987314ca90ce70c0452eec458e43a91cd8100708aaccde2985",
+            "fileName": "Size=XL, Which=Plastic Fischer.png",
+            "size": 14027
+        },
+        "cardDescription": "Plastic Fischer develops efficient and cost-effective waste\ncollection technologies that are suitable for any given river condition around the world.",
+        "cardImage": {
+            "uuid": "edd29363-08fe-4bde-9b5c-481103645813",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/2c08f7544ee8ad756adece03fe43c413abbab966674892d6a90160ef82864b7b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3599&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=1ef5309012b70466d35c8225111cc2c1a442b03579ca8c1328e45a2e827811e3",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/80eade50c5d39c45690dc232f69bfd23fdb2499ab1539cd95082ff6c0eee1e75?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=b8e03dee7458c4b8cfe45d8ee79a4ab3d8bae941c5e7b0313a36f61d1a69fcd8",
+            "fileName": "Plastic Fischer Team.jpg",
+            "size": 175304
+        },
+        "thankYouNote": "Thanks to your partnership we can remove plastic waste from the rivers in the Varanasi region in India and prevent it from entering our oceans. We have recently started our collaboration with CLEANHUB and hope it will grow into a fruitful collaboration to freeing the oceans from plastic pollution.",
+        "assignable": true,
+        "unassignedQuantityTotal": 88.0,
+        "formattedRecoveredQuantity": "880",
+        "formattedTotalRecoveredQuantity": "880"
+    },
+    {
+        "uuid": "859083fa-cb64-4df3-ac9f-1a1d89469fb6",
+        "state": "ACTIVE",
+        "category": "ASSIGNABLE",
+        "stage": "PILOT",
+        "name": "Eco Bali",
+        "displayName": "eco Bali",
+        "slug": "eco-bali",
+        "type": "Waste Collection & Recycling",
+        "location": "Kuta Utara",
+        "externalId": "8ffef257-2a29-4e31-9f7d-bb030fe88ea2",
+        "recoveredQuantity": 0.0,
+        "recoveredQuantityUnit": "KG",
+        "totalRecoveredQuantity": 0.0,
+        "collectionAndSortingParagraph": "We work with several suppliers across Bali. Our suppliers range from small shop owners, to waste banks and door-to-door collection partners. All volumes are aggregated and pre-sorted by our suppliers before we do a final sorting at our plant.",
+        "pageMode": "RELEASED",
+        "hubUnassignedRecoveryList": [],
+        "referenceQuantityUnit": "KG",
+        "parentHubName": null,
+        "logo": {
+            "uuid": "b3419376-eb6e-4c8b-b0a3-542262ef3c2d",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/5602323f2b387b1d770869d6e11f0b18e74ac55eac6a85dfeb16aaebe6a9d819?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=19d376deaa7c070dfda415663b19406d4204bf4b1be2b0409abf07e9ce3d313a",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/76395a9c81ba5f0d5e9b938473eba72a51609130714c21fd031836f6f00608b0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=86ed6d2d184d122c9dbbdd283394211b590d4b98171b82980a3772b9467e2fa9",
+            "fileName": "5602323f2b387b1d770869d6e11f0b18e74ac55eac6a85dfeb16aaebe6a9d819.png",
+            "size": 70216
+        },
+        "cardDescription": "eco Bali was founded in 2006 on the idea of getting responsible with waste because of the lack of responsible waste management available in Bali.\nThe “make take dispose” linear behavior is sadly still happening today. Eco Bali seeks to implement a more circular way to approach waste.",
+        "cardImage": {
+            "uuid": "02f4dcbe-c653-407f-8711-b9c7794a4558",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/e583cdda10202f1d572539e27b2d6532baf5940e4fefb60d9504295675906fb1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=37db692acca2fb2d3b9f20bbc48de5058dbeac885518cc533e2d367c8c629c47",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/f50dec9639b3d6789361545f30d49b678c76c88f8416e5067c68444bb613066f?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=8322c95e9f31ad376f75a36eba6976403976fbb58a72d1122cba686932d6a08b",
+            "fileName": "e583cdda10202f1d572539e27b2d6532baf5940e4fefb60d9504295675906fb1.jpeg",
+            "size": 652561
+        },
+        "thankYouNote": "Thanks to your partnership we can recover non-recyclable plastic on the island of Bali and prevent it from entering our oceans.\nWe're especially happy that we can provide extra income to our suppliers through the partnerships and keep our direct environment more liveable by collecting ALL types of plastic waste. While it used to be common practice for the local households to burn their plastic waste in the backyards, we can now take off that burden and help them, the environment, and our oceans to be healthier.",
+        "assignable": true,
+        "unassignedQuantityTotal": 0.0,
+        "formattedRecoveredQuantity": "0",
+        "formattedTotalRecoveredQuantity": "0"
+    },
+    {
+        "uuid": "d2c366ee-c477-45f1-bb7e-633e5334d928",
+        "state": "ACTIVE",
+        "category": "PORTFOLIO",
+        "stage": "FULLY_ONBOARDED",
+        "name": "Portfolio",
+        "displayName": "Support globally",
+        "slug": null,
+        "type": null,
+        "location": null,
+        "externalId": null,
+        "recoveredQuantity": 0.0,
+        "recoveredQuantityUnit": "KG",
+        "totalRecoveredQuantity": 157158.74000000002,
+        "collectionAndSortingParagraph": null,
+        "pageMode": "RELEASED",
+        "hubUnassignedRecoveryList": [
+            {
+                "uuid": "a0938be8-5b0e-45db-9ee9-cfb846038d04",
+                "createdAt": "2022-01-21T06:11:40.209318Z",
+                "state": "PARTIALLY_ASSIGNED",
+                "unassignedQuantity": 909.37,
+                "assignedQuantity": 871.86,
+                "quantityUnit": "KG"
+            },
+            {
+                "uuid": "b5e838cf-2310-4fdd-9709-c9afe1b80818",
+                "createdAt": "2022-06-23T08:53:07.277886Z",
+                "state": "UNASSIGNED",
+                "unassignedQuantity": 91.88,
+                "assignedQuantity": 0.0,
+                "quantityUnit": "KG"
+            },
+            {
+                "uuid": "02de691b-bd83-49d1-b05e-8a8baffb2667",
+                "createdAt": "2022-07-15T09:52:21.757841Z",
+                "state": "UNASSIGNED",
+                "unassignedQuantity": 95.0,
+                "assignedQuantity": 0.0,
+                "quantityUnit": "KG"
+            },
+            {
+                "uuid": "46243f58-2485-43d0-a042-2cbf792cf272",
+                "createdAt": "2022-05-17T10:35:35.860127Z",
+                "state": "PARTIALLY_ASSIGNED",
+                "unassignedQuantity": 105.6,
+                "assignedQuantity": 72.389246,
+                "quantityUnit": "KG"
+            },
+            {
+                "uuid": "01e32768-080d-4a29-92d3-8651d82b9178",
+                "createdAt": "2022-05-17T11:12:47.314290Z",
+                "state": "UNASSIGNED",
+                "unassignedQuantity": 106.8,
+                "assignedQuantity": 0.0,
+                "quantityUnit": "KG"
+            },
+            {
+                "uuid": "84b56998-097a-4f69-a8ba-e3fc23e41c66",
+                "createdAt": "2022-06-23T08:55:31.695595Z",
+                "state": "UNASSIGNED",
+                "unassignedQuantity": 73.512,
+                "assignedQuantity": 0.0,
+                "quantityUnit": "KG"
+            },
+            {
+                "uuid": "779ee24c-fd66-4436-9650-6735c94c3619",
+                "createdAt": "2021-12-06T14:53:09.060754Z",
+                "state": "UNASSIGNED",
+                "unassignedQuantity": 88.0,
+                "assignedQuantity": 0.0,
+                "quantityUnit": "KG"
+            },
+            {
+                "uuid": "f6c0d042-88a3-49fa-b425-80e432c2a7e1",
+                "createdAt": "2022-01-27T09:51:10.707445Z",
+                "state": "PARTIALLY_ASSIGNED",
+                "unassignedQuantity": 88.0,
+                "assignedQuantity": 81.0,
+                "quantityUnit": "KG"
+            }
+        ],
+        "referenceQuantityUnit": "KG",
+        "parentHubName": null,
+        "logo": null,
+        "cardDescription": "For the biggest impact you can support all our projects around the world. The money will be split between the portfolio so that our movement can flourish in all parts of the world.",
+        "cardImage": {
+            "uuid": "043fc24f-9aea-4139-a2c6-6c9cbfe7f827",
+            "directLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/64c0715eb5a63b64eeff4796fb1c8883db5bb1d424f73edb010eec2c037af123?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=50152352544023658cbbbca79e21b628356d0ab9d95b293dc44140b326302abe",
+            "thumbnailDirectLink": "https://cleanhub-marketplace-pictures-demo.s3.eu-central-1.amazonaws.com/admin/a036b868f67ccfefea8e6cab2b50f13c824f7c362070efd504ad594314a60c21?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220730T191013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAYGJI4AGSWGBX4GBZ%2F20220730%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Signature=8965a1b6c360c9e434473ba3c278c800c77503c42df510526d16f04c28d80c4d",
+            "fileName": "portfolio_card_image.jpeg",
+            "size": 601297
+        },
+        "thankYouNote": null,
+        "assignable": true,
+        "unassignedQuantityTotal": 532.912754,
+        "formattedRecoveredQuantity": "0",
+        "formattedTotalRecoveredQuantity": "157,159"
+    }
+]
