@@ -12,5 +12,5 @@ To run the project locally:
 ### Todos:
 - [ ] A nicer looking UI
 - [ ] Unit Tests
-- [ ] add proxy for the api requests
+- [ ] add proxy for the api requests, right now requests can only be done from localhost:3000
 
