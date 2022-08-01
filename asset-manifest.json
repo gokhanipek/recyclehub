@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recycle-hub/static/css/main.1561929f.css",
+    "main.js": "/recycle-hub/static/js/main.c11ba7c1.js",
+    "static/js/787.8d7d487a.chunk.js": "/recycle-hub/static/js/787.8d7d487a.chunk.js",
+    "index.html": "/recycle-hub/index.html",
+    "main.1561929f.css.map": "/recycle-hub/static/css/main.1561929f.css.map",
+    "main.c11ba7c1.js.map": "/recycle-hub/static/js/main.c11ba7c1.js.map",
+    "787.8d7d487a.chunk.js.map": "/recycle-hub/static/js/787.8d7d487a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1561929f.css",
+    "static/js/main.c11ba7c1.js"
+  ]
+}
