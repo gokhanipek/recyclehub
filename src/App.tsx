@@ -1,11 +1,12 @@
 import React, { useEffect, useState } from 'react';
-import './App.css';
-import Hubs from './pages/Hubs';
+
 import { fetchHubsThunk } from './thunks/fetchHubs';
 import { useDispatch } from 'react-redux';
 import { AppDispatch } from './store/store';
+import HubsContainer from './containers/HubsContainer';
 
-const App = () => {
+
+const App: React.FC = () => {
   const dispatch: AppDispatch = useDispatch();
   const [isFetched, setIsFetched] = useState<boolean>(false);
 
@@ -18,7 +19,9 @@ const App = () => {
 
   return (
     <>
-      <Hubs />
+      <div className="container">
+        <HubsContainer />
+      </div>
     </>
   );
 }

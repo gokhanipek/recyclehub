@@ -6,12 +6,12 @@ export const hubsSlice = createSlice({
     reducers: {
         fetchHubsRequest: state => ({
             ...state,
-            isLoading: true
+            isLoading: true,
         }),
         fetchHubsSuccess: (state, {payload}) => ({
             ...state,
             hubs: payload.data,
-            isLoading: false
+            isLoading: false,
         }),
         fetchHubsFailed: state => ({
             ...state,

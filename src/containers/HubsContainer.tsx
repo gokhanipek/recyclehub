@@ -1,37 +1,36 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import { useSelector } from 'react-redux'
-import Hub from '../components/Hub';
-import { getHubs, getIsLoading } from '../selectors/selectors';
-import { HubsResponse, HubsState } from '../types/types';
+import Hub from '../components/Hub/Hub';
+import Search from '../components/Search/Search';
+import { getHubs } from '../selectors/selectors';
+import { HubsResponse } from '../types/types';
 
-function HubsContainer() {
-    const hubs: HubsResponse[] = useSelector(getHubs);
+
+
+const HubsContainer: React.FC = () => {
+
+    const hubsState: HubsResponse[] = useSelector(getHubs);
+
+    const [name, setName] = useState('');
+    const [hubs, setHubs] = useState([]);
+    
+    useEffect(() => {
+        setHubs(hubsState);
+    }, [hubsState])
+
+
+    const handleSearchChange = e => {
+        setName(e.target.value);
+    }
+
+    const toSearch = name => item => item.name.toLowerCase().includes(name.toLowerCase());
+    const filteredHubs = !!hubs && hubs.filter(toSearch(name));
+
     return (
         <>
-            {
-                !!hubs && hubs.map(hub =>
-                    <div>
-                        <p>name: {hub.name}</p>
-                        <p>state: {hub.stage}</p>
-                        <p>state: {hub.state}</p>
-                        <p>thankyou: {hub.thankYouNote}</p>
-                        <p>totalrecovery: {hub.totalRecoveredQuantity}</p>
-                        <p>unassignedquantity: {hub.unassignedQuantityTotal}</p>
-                        <p>type: {hub.type}</p>
-                        <p>category: {hub.category}</p>
-                        <p>display name: {hub.displayName}</p>
-                        <p>cardDescription: {hub.cardDescription}</p>
-                        <p>card image: {hub.cardImage?.fileName}</p>
-                        <p>external id: {hub.externalId}</p>
-                        <p>formattedRecoveredQuantity: {hub.formattedRecoveredQuantity}</p>
-                        <p>location: {hub.location}</p>
-                        <p>logo: {hub.logo?.fileName}</p>
-                        <p>unassignedQuantityTotal: {hub.unassignedQuantityTotal}</p>
-
-                        
-                    </div>
-                )
-            }
+            <Search name={name} handleSearchChange={handleSearchChange} />
+            {name && filteredHubs.map(hub => <Hub key={hub.uuid} hub={hub} />)}
+            {!name && !!hubs && hubs.map(hub => <Hub key={hub.uuid} hub={hub} />)}
         </>
     )
 }
