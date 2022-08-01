@@ -12,5 +12,5 @@ To run the project locally:
 ### Todos:
 - [ ] A nicer looking UI
 - [ ] Unit Tests
-- [ ] Server side rendering 
+- [ ] add proxy for the api requests
 
