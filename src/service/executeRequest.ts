@@ -4,9 +4,15 @@ export const executeRequest = (request): Promise<any> => {
     const baseUrl = "https://marketplace-demo.cleanhub.com/api/public/";
     const {method, url} = request;
 
+    const proxy = {
+        host: 'http://localhost:3000/',
+        port: 3000
+    }
+
     const requestConfig: AxiosRequestConfig = {
         method,
         url: `${baseUrl}${url}`,
+        proxy
     }
 
     return axios(requestConfig)
