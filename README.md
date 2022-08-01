@@ -1,7 +1,7 @@
 # Recycle Hub
 
 Created with CRA, Typescript, Redux, Redux-toolkit, SCSS
-Spent around 6 hours on task, some of the crucial things like proxy for api requests and unit tests are left out.
+Spent around 6 hours on task, some of the crucial things like proxy for api requests and unit tests are left out, added as to-do.
 
 To run the project locally:
 ### `git clone https://github.com/gokhanipek/recyclehub.git`
