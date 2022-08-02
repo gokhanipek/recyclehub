@@ -14,4 +14,5 @@ To run the project locally:
 - [ ] A nicer looking UI - 2 hours
 - [ ] Unit Tests - 2 hours
 - [ ] add proxy for the api requests, right now requests can only be done from localhost:3000 - 1 hour
-
+- [ ] add more filters 
+- [ ] expand the project with a documentation api instead of the existing one
