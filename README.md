@@ -15,4 +15,4 @@ To run the project locally:
 - [ ] Unit Tests - 2 hours
 - [ ] add proxy for the api requests, right now requests can only be done from localhost:3000 - 1 hour
 - [ ] add more filters 
-- [ ] expand the project with a documentation api instead of the existing one
+- [ ] expand the project with a better/accomplished api instead of the existing one
